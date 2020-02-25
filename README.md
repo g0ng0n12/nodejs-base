@@ -3,7 +3,7 @@ This is a template where I can start a RestAPI App
 
 # Getting started
 
-## Running the App
+## Running the App (For development purposes only)
 
 * 1 - Clone the repo and open the terminal in the path where you clone the repo
 * 2 - Run `npm install` to install the dependencies
